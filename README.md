@@ -12,6 +12,6 @@ My pet project, which has come to me many times at once, because it is always at
 
 ## See my project🛡
 
-[Try Passcard!](http://passcard.vercel.app/)
+👉[Try Passcard!](http://passcard.vercel.app/)
 
 ![Passcard demo](https://lorneyq.vercel.app/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fpasscard.ddc41dc3.jpg&w=1920&q=75)
